@@ -1,6 +1,6 @@
 # ClearSpeak English placement assessment
 
-A browser-based placement test with 25 progressive A1–C2 multiple-choice questions on grammar and vocabulary, an immediate screening estimate, and a written task for teacher review. Reading-comprehension passages and the speaking recording exercise have been removed.
+A browser-based placement test with 40 progressive A1–C2 multiple-choice questions on grammar and vocabulary, an immediate screening estimate, and one written response for teacher review. Reading comprehension and speaking have been removed. The question set includes more nuanced B2–C2 language items to make upper-level placement more discriminating.
 
 ## Deployment
 
